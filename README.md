@@ -4,6 +4,10 @@ Este é um projeto simples de uma bateria virtual feita com HTML, CSS e Javascri
 
 Ele pode ser acessado através do link https://viniciusmponte.github.io/bateriaonline/
 
+## Screenshot
+
+<img src="https://raw.githubusercontent.com/ViniciusMPonte/portfolio/main/images/Bateria.png" style="width: 500px; height: auto;">
+
 ## Como utilizar
 
 Ao abrir o projeto, você verá uma página com uma bateria virtual. Cada botão da bateria pode ser acionado de duas maneiras: 
